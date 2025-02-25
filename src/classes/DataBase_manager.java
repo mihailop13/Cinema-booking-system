@@ -239,7 +239,7 @@ public class DataBase_manager {				//klasa za manipulisanje sa bazom
 		return false;
 	}
 	
-    private static final String BEARER_TOKEN = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMTY0NTE0MjliM2QwY2M3MjNhMDVhOWYwZDAxMmU4MyIsIm5iZiI6MTczODg0OTIwNS4zMzcsInN1YiI6IjY3YTRiYmI1MWZjYmZlZTU0ZDJmZDg4YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.aN9RVtbf_tE1qMfmZT2MayZZYNiJdrJO1lVeDLtGJHo";
+    private static final String BEARER_TOKEN = "...";
 	
 	private static JSONObject getData() {
 		
