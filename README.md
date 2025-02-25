@@ -24,7 +24,8 @@ Once logged in, the visitor can choose between two options.
 ![VisitorOptionsSC](Gui%20screenshots/VisitorOptionsSC.png)
 
 ### Select Movie
-If the visitor chooses to reserve a ticket, they can select the movie they are interested in.  
+If the visitor chooses to reserve a ticket, they can select the movie they are interested in.<br>
+Using the API, 10 movies were fetched along with all the accompanying data.<br>
 ![SelectMovieVisitor](Gui%20screenshots/SelectMovieVisitor.png)
 
 ### Select Projection
@@ -75,7 +76,7 @@ Employees can create a new time slot by pressing "Want to create a new time slot
 - Java 17  
 - SQLite Database  
 - Java Swing for GUI  
-- REST API for fetching data
+- REST API for fetching data (Movies)
 
 ## 👤 Author  
 - **Mihailo Pantelić**  
